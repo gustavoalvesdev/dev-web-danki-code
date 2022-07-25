@@ -1,0 +1,143 @@
+CURSO DE DESENVOLVIMENTO WEB
+
+Inscreva-se no curso mais COMPLETO de Desenvolvimento Web do Brasil e comece a Aprender AGORA! 
+
+- Aprenda HTML5, CSS3 e JavaScript
+- Domine o PHP
+- Aprenda a Criar Qualquer Sistema Web
+- Mais de 500 Aulas Práticas
+- Acesso Vitalício e Imediato ao Curso
+- Suporte Individual e Personalizado
+- Baixe o Material e Projetos das Aulas 
+- + de 50 Projetos e 300 Exercícios feitos no curso
+- (Acesso Imediato) Comece a estudar AGORA!
+
+O que você vai realmente aprender?
+
+Aulas 100% Práticas e novos módulos / aulas / projetos sendo adicionados constantemente (SEM CUSTOS ADICIONAIS).
+
+Conceitos e Introdução
+- Módulo de introdução, onde você vai aprender os principais conceitos. Como por exemplo: O que é o PHP? Como funciona um servidor? Diferença entre Front-End / Back-Ende diversos outros conceitos para você entrar com tudo no curso.
+
+Configurações Servidor Local e Ferramentas
+- Neste módulo você vai aprender como configurar sua área de trabalho como uma(a) verdadeiro(a) profissional. Desde a configuração de um servidor local altamente produtivo até personalização e configuração do editor de códigos.
+
+Domínio, Hospedagem e Servidor Externo
+- Agora você vai aprender na prática como configurar um domínio. Vai entender a lógica de como funciona o domínio e como realizar apontamentos para outros servidores. Também como configurar uma hospedagem ou servidor, como passar arquivos para o servidor, qual ferramenta utilizar e muito mais! Tudo isso na prática e ainda utilizando o servidor da Danki Code como exemplo.
+
+Lógica de Programação e Algoritmos
+- Aprenda a pensar com um programador e entenda a lógica de programação. Neste módulo vamos realizar exercícios práticos para lhe dar uma visão geral sobre como funciona a execução de qualquer aplicação.
+
+PHP Básico
+- Módulo para começarmos a programar com PHP, onde iremos realizar uma série de exercícios práticos para você entender a lógica de programação. Você vai aprender sobre variáveis, tipos de variáveis, funções, loopings e todos os principais conceitos para começar a programar com PHP do jeito certo.
+
+PHP Intermediário
+- Avançamos para a próxima etapa do curso. Onde você vai aprender na prática conceitos intermediários do PHP. Conceitos que você vai aprender em diversos exercícios práticos. Neste módulo você vai entender como funcionam as funções nativas do PHP, como trabalhar com POST e GET, Arrays Avançados e muito mais. Também vamos rever pontos importantes do módulo anterior e ligar com o que aprendemos neste módulo.
+
+PHP Orientado a Objetos
+- Neste módulo você vai entender como funciona a orientação a objetos e como aplicar no PHP. Como usar classes existentes do PHP, como criar suas próprias classes, tipos de clases, métodos, atributos e muito mais. Vamos realizar diversos exercícios práticos neste módulo para você fixar bem a orientação a objetos e saber como aplicar na prática em qualquer aplicação.
+
+Banco de Dados e PHP
+- Toda aplicação dinâmica precisa trabalhar com banco de dados. Neste módulo você vai dominar o MySql, que é o banco de dados mais utilizado no mundo e também vai aprender como integrar o mesmo com suas aplicações.
+
+Site Dinâmico - HTML5e Marcação
+- Vamos iniciar um projeto prático. Criando um WebSite profissional do zero. E neste módulo você vai aprender como realizar a marcação do mesmo, da maneira correta e utilizando HTML5. Iremos conhecer as tags do html5, como trabalhar com as mesmas e muito mais.
+
+Site Dinâmico - CSS/CSS3 e Design Responsivo
+- Durante este módulo vamos aprender a estilizar nosso website, utilizando CSS e CSS3. Você vai aprender as principais propriedades e como utilizá-las. Também como fazer com que suas páginas web se adaptem em qualquer tamanho de tela.
+
+Site Dinâmico - JavaScript / JQuery
+- A partir de agora você vai aprender e entender como manipular suas interfaces utilizando JavaScript com a biblioteca jQuery. Permitindo criar efeitos, animações, controlar eventos e muito mais. Tudo isso será ensinado 100% na prática.
+
+Site Dinâmico - PHP
+- Vamos otimizar nosso site com o PHP. Criando o carregamento 100% dinâmico e com validação. Vamos dar vida ao website, fazendo todos os nossos formulários de contato funcionarem, manipular o disparo de e-mail, aplicar ajax, eventos e muito mais. Vamos criar nossas próprias classes e métodos próprios para deixar nossa aplicação ainda mais flexível.
+
+Painel de Controle - Interface e PHP
+- Vamos construir um painel de controle do zero. Criando toda a interface, utilizando HTML5, CSS3, JavaScript e Design Responsivo. Neste módulo vamos também criar um sistema de login 100% seguro e profisisonal para nossa aplicação. Diversos conteúdos extras serão passados neste módulo, como por exemplo: utilizando Developer Tools do Chrome, aplicando técnicas cross-browser, etc.
+
+Painel de Controle - PHP Avançado e Sistemas 
+- Neste módulo vamos criar diversos sistemas do zero. Sistemas que vamos usar em um painel de controle completo que desenvolvemos durante o curso. Vamos criar nossas próprias classes personalizadas, de uma forma profissional e que permite alta produtividade para criar qualquer tipode aplicação web.
+
+Ferramentas de Alta Produtividade
+- Neste módulo você vai aprender a utilizar instalar e configurar ferramentas para desenvolvimento web. Também vou lhe ensinar meu método pessoal de organização sempre quando desenvolvo minhas aplicações. Métodos que vão deixar você muito mais ágil para criar suas aplicações.
+
+Manipulando Arquivo e Diretórios com PHP
+- Agora você vai aprender como manipular arquivos e diretórios com PHP. Como criar, excluir, renomear e muito mais. Você vai aprender a utilizar as funções mais eficientes do PHP para conseguir manipular tanto os arquivos como diretórios de uma forma fácil e segura.
+
+Leitura Avançada com PHP
+- Aprenda a fazer leituras externas ou internas utilizando as funções do PHP. Você vai aprender mais a fundo como interpretar um arquivo XML ou JSON. Também vai aprender como criar seus próprios arquivos, utilizando ambos.
+
+Criando Portal de Notícias + Gestão
+- Neste Bônus, vamos criar um sistema completo de gestão de notícias. Tanto o site com todas as funiconalidades de um portal quanto o painel de controle, para uma gestão completa. Você vai aprender diversas novas técnicas de programação neste módulo.
+
+Colocando Sites e Sistemas Online
+- Com este bônus vamos ver na prática como colocar o sistema e site que desenvolvemos durante o curso na hospedagem. Aulas 100% práticas onde mostro passo a passo da maneira mais eficiente e segura para realizar esse processo.
+
+SEO, Analytics e Google Web Master Tools
+- Com este bônus você vai aprender a integrar  Google Analytics nos seus sistemas ou websites. Vai aprender como otimizar diretamente no código, sua página, para SEO para que os mecanismos de busca achem mais facilmente. Também vamos ver na prática a ferramenta do Google para otimizar ainda mais nossas páginas web.
+
+Web Services e API's
+- Aprenda como utilizar o máximo do PHP fazendo requisições externas e integrando diretamente com seu sistema. Como por exemplo para o sistema de busca do Google, login com facebook, integração com serviços de e-mail marketing e muito mais! Vamos realizar todos estes exercícios na prática para criar nossos próprios sistemas.
+
+Conheça o Composer
+- Aprenda a utilizar o composer para instalar todas as dependências do seu projeto de uma maneira fácil e intuitiva. Vamos ver tudo isso na prática. Você vai aprender os comandos para utilizar composer, importar as dependências, atualizar e muito mais!
+
+BootStrap e PHP
+- Neste super módulo, vamos criar um site do zero utilizando o framework front-end mais utilizado do mundo. Vamos depois aplicar PHP e deixar o mesmo dinâmico. Vamos também criar um painel de gestão completo para o site, do absoluto zero. Utilizando o BootStrap e depois aplicando PHP.
+
+MVC e Rotas
+- Módulo que vai ensinar você como trabalhar com Padrão MVC, onde iremos criar um framework próprio. Também vamos aprender a trabalhar com sistema de rotas, onde vamos desenvolver um sistema do zero utilizando padrão MVC junto com o sistema de roteamento.
+
+Conceitos Avançados + PHP7 + Segurança
+- Este é um módulo com diversas aulas, onde é mostrado conceitos avançados do PHP. Tudo isso 100% na prática realizando uma série de exercícios aplicando estes conceitos. Também vamos trabalhar com o PHP 7 e todas as novidades. Além de tudo isso, será realizado uma série de exercícios práticos ensinando tudo sobre segurança e como aplicar nos seus sistemas e deixar os mesmos blindados contra qualquer tipo de ataque.
+
+Criando Sistema de Gestão de Clientes
+- Vamos desenvolver um sistema completo de gestão de clientes. Cadastro, edição, exclusão e sistmea de pesquisa avançado. Tudo isso dentro do nosso painel de controle desenvolvido no início do curso, deixando  mesmo mais completo e totalmente flexível para adicionar novos sistmeas.
+
+Criando Sistema de Controle Financeiro
+- Vamos desenvolver um sistema completo de controle financeiro. Diretamente ligado com nosso sistema de gestão de clientes, onde criaremos toda a gestão do zero. Cadastro de parcelas, validação, filtros e muito mais! Ainda vamos criar nosso próprio sistema de disparo de e-mail automático e geração de PDF dinãmico.
+
+Criando Sistmea de Controle de Estoque
+- Agora vamos desenvolver um sistema completo de controle de estoque. Cadastro de produtos e categorias. Assim como total gerenciamento da quantidade de itens. Este sistema servirá como base para nosso projeto de Loja Virtual / E-commerce.
+
+Criando Sistema de Gestão de Imóveis
+- Vamos desenvolver um sistema completo para gerenciamento de imóveis. Com sistema de pesquisa altamente avançado e profissional. Listagem de Imóveis, filtros e além disso diversas funcionalidades para uma gestão fácil e intuitiva.
+
+Criando Site de Imóveis
+- Agora vamos desenvolver um site para mostrar os imóveis do nosso sistema. Vamos aproveitar o sistema desenvolvido anteriormente e criar um site do zero e dinâmico para apresentar os imóveis.
+
+Criando Chat Online
+- Vamos aplicar todo nosso conhecimento de PHP em tempo real para criar um chat altamente poderoso e otimizado. Junto ao sistema vamos implementar a parte de login, validação e muito mais! 
+
+Criando Sistema de Calendário e Agenda
+- Neste módulo vamos criar um sistema de calendário do zero. E junto com esse sistema iremos criar nosso próprio sistema de agenda. Onde podemos criar eventos, escolher horários e muito mais!
+
+Criando Site com Login + Comentários
+- Vamos criar m site com a possibilidade do usuário realizar login e fazer comentários nas postagens. Vamos igar esse site com nosso portal de notícias desenvolvido no início do curso, deixando o mesmo ainda mais completo.
+
+Criando Site e Sistema de Fórum
+- Neste módulo vamos criar um site completo + gestão para um sistema de fórum. Vamos criar o sistema do zero, onde o usuário pode criar tópicos, integrar e muito mais! Também criaremos a gestão onde podemos criar sub-fóruns, gerenciar usuários, postagens, etc.
+
+Criando Loja Virtual / E-Commerce
+- Agora vamos criar uma Loja Virual / E-Commerce do zero. Vamos desenvolver toda a estrutura para gestão dos produtos, pagamentos, cálculo de frete e muito mais!
+
+Criando Plataforma EAD
+- Vamos criar uma Plataforma EAD do zero. Como a plataforma da Danki Code, onde podemos gerenciar cursos, módulos e aulas. Vamos integrar o sistema de pagamento 100% automatizado e muito mais. Gestão de Alunos, progresso, etc.
+
+Criando Rede Social
+- Vamos criar uma rede social completa. Possibilidade de adicionar amigos, interagir, enviar mensagens, postar no mural e muito mais! Iremos desenvolver algoritmos avançados para sugestão de amigos, espaço para propaganda e muito mais! 
+
+Frameworks PHP
+- Neste módulo você vai aprender a trabalhar com os frmeworks PHP mais poderosos do mercado e criar aplicações poderosas com os mesmos. Serão realizados diversos exercícios práticos neste módulo. Alguns dos frameworks estudados, serão: Slim, Laravel e CodeIgniter.
+
+Criando Sistema de Suporte Personalizado
+- Vamos criar um sistema de suporte do zero. Com todas as funcionalidades que um sistema de suporte personalizado possui! Como por exemplo: Abrir chamados, Responder chamados; Encerrar chamados e muito mais! Usaremos como base um dos grandes sistemas atuais para suporte, o Zendesk.
+
+Criando Sistema de E-mail Marketing
+- É isso mesmo! Vamos criar nosso próprio sistema de e-mail marketing e integrar no nosso painel de gestão desenvolvido durante o curso. Este sistema possibilitará: gestão de contatos, gestão de listas e envio de campanhas de e-mail.
+
+Web Scraping
+- E se você aprendesse como puxar informações de outros sites utilizando o PHP? Aprender desde técnicas básicas até avançadas de como puxar informações de outros lugares. Desde puxar notícias de outro website até qualquer outra informação complexa que você apenas encontra em determinado lugar. E ainda conseguindo manipular estas informações e mostrar no seu sistema ou website!
+
+Prospecção de Clientes, Técnicas de Venda e Produtividade
+- Agora que você já dominou aboslutamente TUDO sobre o assunto e é capaz de criar qualquer sistema, chegou a hora de VENDER e ter seus CLIENTES. Vamos ver a fundo neste módulos Técnicas de Venda, Gatilhos Mentais, Modelos de Contrato, Precificação, Briefing e muito mais. Também diversas dicas e técnicas para melhorar ainda mais a sua produtividade e ter mais energia durante o dia.
